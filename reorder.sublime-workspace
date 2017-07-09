@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oc",
+				"occurences\t{} "
+			],
+			[
+				"wr",
+				"writeFile"
+			],
+			[
+				"si",
+				"stringify"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"pro",
+				"promisify\tfn "
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"re",
+				"returnFunction"
+			],
+			[
+				"B",
+				"Bookmark"
+			],
+			[
+				"notific",
+				"_notifications"
+			],
+			[
+				"noti",
+				"_notifications"
+			],
+			[
+				"require",
+				"requirements"
+			],
+			[
+				"adm",
+				"adminRegion"
+			],
+			[
+				"thr",
+				"thread"
+			],
+			[
+				"serv",
+				"serviceClass"
+			],
+			[
+				"Pro",
+				"ProfilePicture"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"url",
+				"urlActive"
+			],
+			[
+				"com",
+				"companies"
+			],
+			[
+				"Sea",
+				"SearchResult"
+			],
+			[
+				"Re",
+				"RegisterForm"
+			],
+			[
+				"focus",
+				"focused"
+			],
+			[
+				"resu",
+				"resumeExperience"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"loadi",
+				"loading-bar-gradient"
+			],
+			[
+				"value",
+				"valueChosen"
+			],
+			[
+				"autocom",
+				"autocompleteSingle"
+			],
+			[
+				"Develo",
+				"DevelopmentForm"
+			],
+			[
+				"Deve",
+				"DevelopmentColor"
+			],
+			[
+				"Input",
+				"InputLanguages"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"auto",
+				"autosizeInitialized"
+			],
+			[
+				"Ui",
+				"UiInputMultiple"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"down",
+				"download"
+			],
+			[
+				"downloa",
+				"downloadResume"
+			],
+			[
+				"dow",
+				"downloadResume"
+			],
+			[
+				"media",
+				"mediaBase"
+			],
+			[
+				"build",
+				"buildDir"
+			],
+			[
+				"u",
+				"UiInputSlider"
+			],
+			[
+				"grey",
+				"grey-lightest"
+			],
+			[
+				"high",
+				"highlights"
+			],
+			[
+				"from",
+				"fromIsResume"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"dis",
+				"displayIcon"
+			],
+			[
+				"icon",
+				"iconHover"
+			],
+			[
+				"on",
+				"onMouseLeave"
+			],
+			[
+				"onM",
+				"onMouseEnter"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inu",
+				"inputFocused"
+			],
+			[
+				"sc",
+				"school"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lo",
+				"lookUpIndex"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"borc",
+				"border-color"
+			],
+			[
+				"conenc",
+				"connection"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"pad",
+				"padding: "
+			],
+			[
+				"pa",
+				"padding-bottom: "
+			],
+			[
+				"mar",
+				"margin-bottom: "
+			],
+			[
+				"alin",
+				"align-items: "
+			],
+			[
+				"paddin",
+				"padding-left: "
+			],
+			[
+				"box-",
+				"box-shadow-soft"
+			],
+			[
+				"pictur",
+				"picture-proportion"
+			],
+			[
+				"loading-",
+				"loading-bar-speed"
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"min",
+				"min-height: "
+			],
+			[
+				"route",
+				"routeGuard"
+			],
+			[
+				"req",
+				"requireAuth"
+			],
+			[
+				"requi",
+				"requiredRoles"
+			],
+			[
+				"bl",
+				"blurSelect"
+			],
+			[
+				"sele",
+				"selectActive"
+			],
+			[
+				"mari",
+				"margin-bottom: "
+			],
+			[
+				"UiIN",
+				"UiInputCheckbox"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"notifi",
+				"notification"
+			],
+			[
+				"UiI",
+				"UiInputFile"
+			],
+			[
+				"backl",
+				"background-color: "
+			],
+			[
+				"clean",
+				"cleanCity"
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"box",
+				"box-shadow-soft"
+			],
+			[
+				"bacl",
+				"background-color: "
+			],
+			[
+				"langua",
+				"languageLevels"
+			],
+			[
+				"add",
+				"addTouchListeners"
+			],
+			[
+				"font-",
+				"font-body-size-extra-small"
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"align",
+				"align-items: "
+			],
+			[
+				"padd",
+				"padding-right: "
+			],
+			[
+				"UiInp",
+				"UiInputSwitch"
+			],
+			[
+				"connec",
+				"connected"
+			],
+			[
+				"connect",
+				"connections"
+			],
+			[
+				"over",
+				"overflow: 〔property〕"
+			],
+			[
+				"resume",
+				"resumeGetUnsaved"
+			],
+			[
+				"save",
+				"saveResume"
+			],
+			[
+				"Lo",
+				"LoginForm"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"op",
+				"optionList"
+			],
+			[
+				"message",
+				"messageActive"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"file",
+				"fileSelected"
+			],
+			[
+				"jo",
+				"jobs"
+			],
+			[
+				"la",
+				"layoutClean"
+			],
+			[
+				"lay",
+				"layoutToggleSearch"
+			],
+			[
+				"seart",
+				"searchResults"
+			],
+			[
+				"sear",
+				"searchActive"
+			],
+			[
+				"UiIn",
+				"UiInputSelect"
+			],
+			[
+				"profile",
+				"profileBasic"
+			],
+			[
+				"inpu",
+				"inputMonthValue"
+			],
+			[
+				"s",
+				"searchActive"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"backgrou",
+				"background-color: 〔property〕"
+			],
+			[
+				"acti",
+				"actionText"
+			],
+			[
+				"inp",
+				"inputFocused"
+			],
+			[
+				"in",
+				"inputValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# Notas de Resolução\n\nA library `csv-reorder` e a respectiva ferramenta cli foram construídas como resolução ao exercício proposto pela BIT SONAE.\n\nO projecto foi executado com recurso a JavaScript ES6 e à respectiva syntax.\n\nPara além dos requerimentos exigidos, decidi incluir a possibilidade de remover \"linhas\" duplicadas, assim como a possibilidade de utilizar `csv-reorder` como uma standalone library.\n\nPor ter uma schedule temporáriamente limitado, não me foi possível incluir integration tests. No entanto, os mecanismos contruídos podem ser fácilmente executados, utilizando os tests scripts incluído no ficheiro package.json.\n\nEm revisões futuras, seria expectável a inclusão de testes, tanto para a standalone library como para a ferramenta cli.\n\nA ferramenta `csv-reorder` foi carregada para o [github](https://github.com/josecarneiro/csv-reorder.git) em regime Open Source, com uma licença MIT, assim como para o [npm](https://www.npmjs.com/package/csv-reorder) registry. O briefing para o exercício, assim como esta mensagem, foram excluídos de qualquer commit.\n\nJosé Carneiro\n\njose@light.pt\n",
+			"file": "SONAE.md",
+			"file_size": 894,
+			"file_write_time": 131441023371717286,
+			"settings":
+			{
+				"buffer_size": 1107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bin/reorder",
+			"settings":
+			{
+				"buffer_size": 2595,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/sort.js",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "reorder.sublime-project",
+			"settings":
+			{
+				"buffer_size": 223,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BRIEFING.md",
+			"settings":
+			{
+				"buffer_size": 601,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 659.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/bold/sonae"
+	],
+	"file_history":
+	[
+		"/C/dev/bold/sonae/package.json",
+		"/C/dev/bold/sonae/tmp/names-output.csv",
+		"/C/dev/bold/sonae/bin/reorder",
+		"/C/dev/bold/sonae/test/files/game-of-thrones-names.csv",
+		"/C/dev/bold/sonae/.gitignore",
+		"/C/dev/bold/sonae/lib/remove-duplicates.js",
+		"/C/dev/bold/sonae/lib/sort.js",
+		"/C/dev/bold/sonae/tmp/dates-output.csv",
+		"/C/dev/bold/sonae/tmp/numbers-output.csv",
+		"/C/dev/bold/sonae/README.md",
+		"/C/dev/bold/sonae/TODO.md",
+		"/C/dev/bold/sonae/reorder.sublime-project",
+		"/C/dev/bold/sonae/lib/write.js",
+		"/C/dev/bold/sonae/index.js",
+		"/C/dev/bold/sonae/test/files/output.csv",
+		"/C/dev/bold/sonae/lib/main.js",
+		"/C/Users/JoséMaria/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/dev/bold/sonae/.eslintrc.js",
+		"/C/dev/bold/sonae/lib/meta.js",
+		"/C/dev/bold/sonae/lib/read.js",
+		"/C/dev/bold/sonae/test/files/names.csv",
+		"/C/dev/bold/sonae/test/files/new.csv",
+		"/C/dev/bold/sonae/test/new.csv",
+		"/C/dev/bold/sonae/lib/edit.js",
+		"/C/dev/bold/sonae/new.csv",
+		"/E/Downloads/Untitled spreadsheet - Sheet1.csv",
+		"/C/dev/bold/sonae/bin/sonae",
+		"/C/dev/bold/sonae/package-lock.json",
+		"/C/dev/twiz-id/twiz-id.sublime-project",
+		"/C/dev/twiz-id/.gitignore",
+		"/C/dev/twiz-id/.npmignore",
+		"/C/dev/twiz-id/package.json",
+		"/C/dev/twiz-id/test/id.js",
+		"/C/dev/twiz-id/lib/helpers.js",
+		"/C/dev/twiz-id/test/index.js",
+		"/C/dev/twiz-id/index.js",
+		"/C/dev/twiz/controllers/user.js",
+		"/C/dev/twiz/controllers/bot/resume-render.js",
+		"/C/dev/twiz/controllers/resume.js",
+		"/C/dev/twiz/controllers/message.js",
+		"/C/dev/twiz/models/account/index.js",
+		"/C/dev/twiz/models/account/bookmark/index.js",
+		"/C/dev/twiz/models/account/beta.js",
+		"/C/dev/twiz/models/account/_preferences.js",
+		"/C/dev/twiz/models/message/thread.js",
+		"/C/dev/twiz/models/message/index.js",
+		"/C/dev/twiz/twiz.sublime-project",
+		"/C/dev/twiz/config/data/organization-types.json",
+		"/C/dev/twiz/models/organization/index.js",
+		"/C/dev/twiz/routes/organization.js",
+		"/C/dev/twiz/controllers/middleware/validate/organization.js",
+		"/C/dev/twiz/controllers/middleware/validate/index.js",
+		"/C/dev/twiz/controllers/organization.js",
+		"/C/dev/twiz/controllers/error-handler.js",
+		"/C/dev/twiz/controllers/job.js",
+		"/C/dev/twiz/models/job/index.js",
+		"/C/dev/twiz/config/data/raw/status-codes",
+		"/C/dev/twiz/models/account/_confirm-email.js",
+		"/C/dev/twiz/models/account/_bookmarks.js",
+		"/C/dev/twiz/controllers/post.js",
+		"/C/dev/twiz/controllers/auth.js",
+		"/C/dev/twiz/controllers/account.js",
+		"/C/dev/twiz/app.js",
+		"/C/dev/twiz/controllers/connection.js",
+		"/C/dev/twiz/routes/job.js",
+		"/C/dev/twiz/models/account/_authentication.js",
+		"/C/dev/twiz/routes/index.js",
+		"/C/dev/twiz/controllers/autocomplete/organizations.js",
+		"/C/dev/twiz/routes/autocomplete.js",
+		"/C/dev/twiz/controllers/search.js",
+		"/C/dev/twiz/controllers/autocomplete/my-organizations.js",
+		"/C/dev/twiz/controllers/autocomplete/index.js",
+		"/C/dev/twiz/models/job/_create.js",
+		"/C/dev/twiz/models/job/_edit.js",
+		"/C/dev/twiz/models/school/index.js",
+		"/C/dev/twiz/models/resume/schema.js",
+		"/C/dev/twiz/controllers/admin/region.js",
+		"/C/dev/twiz/routes/admin.js",
+		"/C/dev/twiz/models/region/index.js",
+		"/C/dev/twiz/.gitignore",
+		"/C/dev/twiz/config/index.js",
+		"/C/dev/twiz/models/region/_inside.js",
+		"/C/dev/twiz/models/region/_search.js",
+		"/C/dev/twiz/controllers/autocomplete/location.js",
+		"/C/dev/twiz/package.json",
+		"/C/dev/twiz/.eslintrc.js",
+		"/C/dev/saphire/frontend/src/main.js",
+		"/C/dev/saphire/frontend/src/plugins/app/index.js",
+		"/C/dev/saphire/frontend/src/views/resume/children/about.vue",
+		"/C/dev/saphire/frontend/src/views/user/user.vue",
+		"/C/dev/saphire/frontend/src/router/routes.js",
+		"/C/dev/saphire/frontend/src/views/base/base.vue",
+		"/C/dev/saphire/frontend/src/components/user/header.vue",
+		"/C/dev/saphire/frontend/src/views/user/children/resume.vue",
+		"/C/dev/saphire/frontend/src/style/variables/options.scss",
+		"/C/dev/saphire/frontend/src/components/user/profile-picture.vue",
+		"/C/dev/saphire/frontend/src/views/resume/children/education.vue",
+		"/C/dev/saphire/frontend/src/components/post/post.vue",
+		"/C/dev/saphire/frontend/src/components/post/input.vue",
+		"/C/dev/saphire/frontend/src/views/school/edit.vue",
+		"/C/dev/saphire/frontend/src/views/school/list.vue",
+		"/C/dev/saphire/frontend/src/components/layout/top-bar.vue",
+		"/C/dev/saphire/frontend/src/views/school/display.vue",
+		"/C/dev/saphire/frontend/src/views/school/create.vue",
+		"/C/dev/saphire/frontend/src/components/search/result.vue",
+		"/C/dev/saphire/frontend/src/components/search/container.vue",
+		"/C/dev/saphire/frontend/index.ejs",
+		"/C/dev/saphire/frontend/src/components/ui/card.vue",
+		"/C/dev/saphire/frontend/package.json",
+		"/C/dev/saphire/frontend/src/components/post/list.vue",
+		"/C/dev/saphire/frontend/src/views/base/feed.vue",
+		"/C/dev/saphire/frontend/src/components/ui/icon.vue",
+		"/C/dev/saphire/frontend/src/views/development/base.vue",
+		"/C/dev/saphire/frontend/src/App.vue",
+		"/C/dev/saphire/frontend/src/api/post.js",
+		"/C/dev/saphire/frontend/src/style/variables/font.scss",
+		"/C/dev/saphire/frontend/src/components/layout/loading-bar.vue",
+		"/C/dev/saphire/frontend/src/api/user.js",
+		"/C/dev/saphire/frontend/src/components/activity/bar.vue",
+		"/C/dev/saphire/frontend/src/components/authentication/login-form.vue",
+		"/C/dev/saphire/frontend/src/components/authentication/logout-button.vue",
+		"/C/dev/saphire/frontend/src/components/authentication/register-form.vue",
+		"/C/dev/saphire/frontend/src/components/common/input-languages.vue",
+		"/C/dev/saphire/frontend/src/components/common/input-list.vue",
+		"/C/dev/saphire/frontend/src/components/common/input-location.vue",
+		"/C/dev/saphire/frontend/.eslintrc.js",
+		"/C/dev/saphire/frontend/src/components/barebone/input-file.vue",
+		"/C/dev/saphire/frontend/src/api/activity.js"
+	],
+	"find":
+	{
+		"height": 98.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"order",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"join",
+			"easyId",
+			"+=",
+			"++",
+			"Resume.load",
+			"$or",
+			"company",
+			"Company",
+			"display",
+			"AM100",
+			"length",
+			"};\n",
+			" 'icon-",
+			": '",
+			"';",
+			"textContent",
+			"inputName",
+			"color(",
+			"style/variables/main",
+			"color('",
+			"e884",
+			"Layer",
+			"\"",
+			":\"",
+			"code",
+			"highli",
+			"toLower",
+			"isReady",
+			"\"",
+			"$call-to-action-gradient: #33a9fc, #77ffa0;",
+			"name",
+			"assetsRoot",
+			"addetsRoot",
+			"resume.js",
+			"main.js",
+			"main",
+			"env",
+			"main {",
+			"v-for=\"(",
+			"splice(",
+			".resume-item",
+			".resume-section",
+			"next",
+			"onInp",
+			"date",
+			"menu",
+			"console",
+			"name",
+			"box-sha",
+			"box-shadow",
+			"lookup",
+			"add",
+			"confirm",
+			"console.log(",
+			"topbar",
+			"vendor",
+			"validator",
+			"console.log",
+			"data/error",
+			"meta",
+			"input",
+			"selectActive",
+			"base.first_name",
+			"base",
+			"$grey-light",
+			"response.bo",
+			"reject(error",
+			"reject(",
+			"response.body",
+			"reject(",
+			"Vue.http",
+			"api/'",
+			"lisboa",
+			"substring",
+			"overflow-y",
+			".row",
+			"console.log(",
+			"la",
+			"console.log",
+			"(state)",
+			"log",
+			"{\n",
+			"extend",
+			"chunck",
+			".paper",
+			"base64",
+			"base",
+			":",
+			"'",
+			"container",
+			"      \n",
+			"\n  //   & > .container {\n  //     & > header {\n  //       padding-top: 1em;\n  //     }\n  //   }\n  // }",
+			"action",
+			"this",
+			"base64",
+			"btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SONAE.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"parser": "github",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1067,
+								1067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1980.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bin/reorder",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1626,
+								1626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/sort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "reorder.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "BRIEFING.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 204.0
+	},
+	"pinned_build_system": "",
+	"project": "reorder.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\dev\\twiz\\twiz.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

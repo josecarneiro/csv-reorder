@@ -1,0 +1,47 @@
+{
+  "name": "csv-reorder",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "commander": "^2.11.0",
+    "csv": "^1.1.1",
+    "figlet": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  },
+  "bin": {
+    "csv-reorder": "./bin/reorder"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "npm run test:names && npm run test:numbers && npm run test:dates && npm run test:silent && npm run test:error",
+    "test:names": "csv-reorder -I test/files/game-of-thrones-names.csv -O tmp/names-output.csv -S Actor -D",
+    "test:numbers": "csv-reorder -I test/files/sp500.csv -O tmp/numbers-output.csv -S High -T number -D",
+    "test:dates": "csv-reorder -I test/files/sp500.csv -O tmp/dates-output.csv -S Date",
+    "test:silent": "csv-reorder -I test/files/game-of-thrones-names.csv -O tmp/names-output.csv -S Actor -Q",
+    "test:error": "csv-reorder -I test/files/non-existant.csv -O tmp/no-output.csv -S Column",
+    "lint": "eslint ./ --cache --ignore-pattern .gitignore"
+  },
+  "author": {
+    "name": "José Carneiro",
+    "email": "jose@light.pt"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^6.11.0",
+    "npm": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josecarneiro/csv-reorder.git"
+  }
+}
