@@ -6,7 +6,8 @@
 			[
 				"package-lock.json",
 				".eslintrc.js",
-				// ".gitignore"
+				".gitignore",
+				".npmignore"
 			],
 			"folder_exclude_patterns":
 			[

@@ -7,3 +7,4 @@ temp
 .eslintcache
 package-lock.json
 *.sublime-workspace
+*.zip
